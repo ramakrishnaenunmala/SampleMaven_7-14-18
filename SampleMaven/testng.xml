@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite name="HRM Suite" >
+         
+  <test name="Login">
+	 <classes>
+	   <class name="testScripts.TC_001"/>
+	    <class name="testScripts.TC_002"/>
+	 </classes>
+   </test>
+   
+  
+</suite>
